@@ -1,0 +1,30 @@
+{
+  "name": "odin-tdd-practice",
+  "version": "1.0.0",
+  "description": "Tesing practice in JavaScript with the library Jest",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooktardev/odin-tdd-practice.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "JavaScript",
+    "Jest"
+  ],
+  "author": "Mooktar Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mooktardev/odin-tdd-practice/issues"
+  },
+  "homepage": "https://github.com/mooktardev/odin-tdd-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
